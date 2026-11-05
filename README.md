@@ -1,4 +1,5 @@
 # Web_programming_project
+# admin
 Proposed Idea for admin page:
 Administrative Interface: Implement an authenticated portal for core management workflows.
 CRUD Operations for Inventory: Provide full create, read, update, and delete capabilities for items, supporting multimedia uploads and storage management.
