@@ -1,7 +1,5 @@
 # Web_programming_project
-# admin
 # Admin Functions of the E-commerce System
-
 
 ## 1. Role Overview
 The **Administrator (Admin)** manages the whole online store through a separate, protected admin panel. Unlike customers, who browse and buy products, the admin controls the store's data: products, orders, promotions and reports. Admin pages are accessible only after logging in with an admin account.
@@ -83,6 +81,8 @@ Priority levels (MoSCoW method):
 **Login** → **Dashboard** (check new orders and low-stock alerts) → **Order Management** (confirm order → update status to Shipping → Delivered) → **Product Management** (add new product / update stock) → **Reports** (check monthly revenue) → **Logout**
 
 **Summary:** For the first working version, the team will focus on all **Must** functions (login, product, category, inventory and order management). **Should** and **Could** functions will be added in later weeks according to the development plan.
+
+
 # customer
 1. Sign up and log in without an account (hoặc: Register and log in when you don't have an account)
 2. Account management (hoặc: Manage profile / Manage personal information)
