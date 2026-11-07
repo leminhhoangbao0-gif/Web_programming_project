@@ -83,36 +83,4 @@ Priority levels (MoSCoW method):
 **Summary:** For the first working version, the team will focus on all **Must** functions (login, product, category, inventory and order management). **Should** and **Could** functions will be added in later weeks according to the development plan.
 
 
-# customer
-1. Sign up and log in without an account (hoặc: Register and log in when you don't have an account)
-2. Account management (hoặc: Manage profile / Manage personal information)
-3. Check transaction history
-4. View transaction history
-5. View top-up packages from the publisher
 
-## 2. System Functional Analysis
-### 2.1. Customer Functions
-* **Account Management:** Sign up, sign in.
-* **Browse Products & Packages:**
-  * View supported games list.
-  * View top-up packages for each game.
-* **Transaction Execution:**
-  * Enter Character ID / Player ID.
-  * Select top-up package.
-  * Online payment.
-* **Management & Support:**
-  * Check transaction status.
-  * View top-up history.
-  * Submit support requests.
-### 2.2. Admin Functions
-* **System Management:**
-  * User account management.
-  * Game list management.
-  * Top-up package and pricing management.
-* **Business Management:**
-  * Order management.
-  * Payment transaction management.
-  * Promotion & discount management.
-* **Reporting & Support:**
-  * Revenue statistics & analytics.
-  * Customer ticket & complaint handling.
