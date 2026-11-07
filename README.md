@@ -84,6 +84,24 @@ Priority levels (MoSCoW method):
 
 # CUSTOMER
 
+## 1. Authentication & Profile
+
+| Function | Description | Priority |
+|----------|-------------|----------|
+| User Registration / Login | Create an account or log in. Non-logged-in users can browse but cannot check out. | Must |
+| Profile Management | Update personal information, shipping address, and password. | Should |
+
+
+
+## 2. Product Discovery
+
+| Function | Description | Priority |
+|----------|-------------|----------|
+| Search & Filter | Search by keyword. Filter by category, price range, and sorting options (low to high, etc.). | Must |
+| Product Detail Page | View high-resolution images, full description, price, available variants, and stock status. | Must |
+| Homepage Display | Show new arrivals and distinct categories upon loading the site. | Must |
+
+
 ## 3. Cart & Checkout (The Core Loop)
 
 | Function | Description | Priority |
