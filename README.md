@@ -84,7 +84,7 @@ Priority levels (MoSCoW method):
 
 # CUSTOMER
 
-## 11. Cart & Checkout (The Core Loop)
+## 3. Cart & Checkout (The Core Loop)
 
 | Function | Description | Priority |
 | --- | --- | --- |
@@ -93,7 +93,7 @@ Priority levels (MoSCoW method):
 | Simulated Payment | Select a payment method (e-wallet, bank QR, COD) to complete the transaction. | Must |
 
 
-## 12. Order Tracking & Support
+## 4. Order Tracking & Support
 
 | Function | Description | Priority |
 | --- | --- | --- |
