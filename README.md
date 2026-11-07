@@ -82,5 +82,21 @@ Priority levels (MoSCoW method):
 
 **Summary:** For the first working version, the team will focus on all **Must** functions (login, product, category, inventory and order management). **Should** and **Could** functions will be added in later weeks according to the development plan.
 
+# CUSTOMER
 
+## 11. Cart & Checkout (The Core Loop)
+
+| Function | Description | Priority |
+| --- | --- | --- |
+| Shopping Cart | Add/remove items, adjust quantities, and view a real-time subtotal. | Must |
+| Checkout Summary | Enter shipping details and view the final price breakdown (including simulated fees). | Must |
+| Simulated Payment | Select a payment method (e-wallet, bank QR, COD) to complete the transaction. | Must |
+
+
+## 12. Order Tracking & Support
+
+| Function | Description | Priority |
+| --- | --- | --- |
+| Order History | View a list of past and current transactions with their status (Pending, Shipping, Delivered, etc.). | Must |
+| Reviews & Ratings | Leave a star rating and text review for products after a completed purchase. | Should |
 
